@@ -1,0 +1,8 @@
+pandas
+pyarrow
+requests
+beautifulsoup4
+pillow
+imagehash
+tqdm
+numpy
